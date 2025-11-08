@@ -61,5 +61,5 @@ Display monthly expenses across the year.
 # Dashboard
 
 <p align="center">
-    <img src="https://github.com/singh-43/Zomato-Dashboard/blob/main/zomato%20dashboard.png" alt="Zomato Dashboard"/>
+    <img src="https://github.com/singh043/Zomato-Dashboard/blob/main/zomato%20dashboard.png" alt="Zomato Dashboard"/>
 </p>
